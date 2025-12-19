@@ -1,0 +1,10 @@
+streamlit
+openai
+pypdf
+faiss-cpu
+sentence-transformers
+numpy
+soundfile
+whisper
+torch
+gtts

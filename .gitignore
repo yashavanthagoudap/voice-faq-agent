@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+.streamlit/
+
+models/vosk-model-small-en-us-0.15/
+
+.env
+.DS_Store
